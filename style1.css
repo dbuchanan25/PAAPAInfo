@@ -1,0 +1,25 @@
+
+
+#leftcol {
+  float: left;
+  width: 80%;
+  height: 675px;
+  overflow: auto;
+  background-color: white;
+  font-family: Arial;
+}
+
+#content {
+  float: left;
+  width: 20%;
+  height: 675px;
+  bordercolor: #ff0000;
+  border: 4px;
+  cellpadding: 5px;
+  font-family: Arial;
+}
+
+.error {
+	font-weight: bold;
+	color: #C00
+}
