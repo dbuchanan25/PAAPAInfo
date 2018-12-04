@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AnesthesiaRecords xmlns="http://www.paapa.us//PAAPAInfo//ormassignment.xsd">
+
+<RecordHeader>
+    <CreatedBy>DB</CreatedBy>
+    <CreateDate>20180730153720</CreateDate>
+    <AssignmentDate>20180727</AssignmentDate>
+</RecordHeader>
+
+<Assignments>
+
+    <ORMGR>
+        <PhysicianName>Ashley McDonell</PhysicianName>
+        <ECT>0</ECT>
+        <Jutras>None</Jutras>
+        <OrmgrNote>1</OrmgrNote>
+    </ORMGR>
+
+    <SLATE>
+        <PhysicianName>Sam Sayson</PhysicianName>
+        <Room>A1</Room>
+        <Room>A2</Room>
+        <Room>A7</Room>
+        <Room>B1</Room>
+        <SLateNote>2</SLateNote>
+    </SLATE>
+
+    <NEURO>
+        <PhysicianName>Jim Benonis</PhysicianName>
+        <Room>A3</Room>
+        <Room>A4</Room>
+        <Room>A5</Room>
+        <Room>A6</Room>
+        <NeuroNote>3</NeuroNote>
+    </NEURO>
+
+    <BLONG>
+        <PhysicianName>Jeff Baeuerle</PhysicianName>
+        <Room>B2</Room>
+        <Room>B3</Room>
+        <Room>B4</Room>
+        <Room>B5</Room>
+        <BLongNote>2</BLongNote>
+    </BLONG>
+
+    <SB>
+        <PhysicianName>Brian Kornrumpf</PhysicianName>
+        <Room>B6</Room>
+        <Room>B7</Room>
+        <Room>B8</Room>
+        <Room>B9</Room>
+        <SBNote>5</SBNote>
+    </SB>
+
+    <OB1>
+        <PhysicianName>Lauren Kokajko</PhysicianName>
+        <OB1Note>6</OB1Note>
+    </OB1>
+
+    <SENDO>
+        <PhysicianName>Lauren Klapthor</PhysicianName>
+        <SEndoNote>7</SEndoNote>
+    </SENDO>
+
+    <SRAD>
+        <PhysicianName>Farrukh Sair</PhysicianName>
+        <SRadNote>8</SRadNote>
+    </SRAD>
+
+    <PED>
+        <PhysicianName>Brian Kornrumpf</PhysicianName>
+        <Room>A1</Room>
+        <PedNote>9</PedNote>
+    </PED>
+
+    <ERAS>
+        <PhysicianName>Paul Shook</PhysicianName>
+        <Room>A2</Room>
+        <ERASNote>10</ERASNote>
+    </ERAS>
+
+    <CVOR>
+        <H1PhysicianName>Ren Weidman</H1PhysicianName>
+        <H2PhysicianName>John Ebert</H2PhysicianName>
+        <CVORNote>CVOR Notes: a</CVORNote>
+    </CVOR>
+
+    <ORTHO>
+        <COHPhysicianName>Karen Slocum</COHPhysicianName>
+        <SOHPhysicianName>Richard Griggs</SOHPhysicianName>
+        <SOH2PhysicianName>Paul Shook</SOH2PhysicianName>
+        <BKOHPhysicianName>Mike McNelis</BKOHPhysicianName>
+        <BKOHPhysicianName>Jonathan McMullen</BKOHPhysicianName>
+        <OrthoNote>Ortho Notes: b</OrthoNote>
+    </ORTHO>
+
+    <CLTOPS>
+        <COPS1PhysicianName>Lee Ann McGinnis</COPS1PhysicianName>
+        <COPS2PhysicianName>Christopher Gunn</COPS2PhysicianName>
+        <OpsNote>CLTOPS Notes: c</OpsNote>
+    </CLTOPS>
+
+    <MIDTN>
+        <MidTnPhysicianName>Frank Stranick</MidTnPhysicianName>
+        <MidTn2PhysicianName>John Sandoval</MidTn2PhysicianName>
+        <MidTnNote>Midtown Notes: d</MidTnNote>
+    </MIDTN>
+
+    <SPK>
+        <SpkPhysicianName>Jeff Welna</SpkPhysicianName>
+        <Spk2PhysicianName>Dale Buchanan</Spk2PhysicianName>
+        <SpkNote>SouthPark Notes: e</SpkNote>
+    </SPK>
+
+    <MATTHEWS>
+        <CMatPhysicianName>Paul Ryskiewich</CMatPhysicianName>
+        <SMLatePhysicianName>Megan Meuse</SMLatePhysicianName>
+        <SMatPhysicianName>Rick Morales</SMatPhysicianName>
+        <MatthewsNote>Matthews Notes: f</MatthewsNote>
+    </MATTHEWS>
+
+    <MASC>
+        <PhysicianName>Darryl Malak</PhysicianName>
+        <MASCNote>MASC Notes: g</MASCNote>
+    </MASC>
+
+    <HUNTERSVILLE>
+        <CHntPhysicianName>Ron Brannon</CHntPhysicianName>
+        <SHntPhysicianName>Tom Quigley</SHntPhysicianName>
+        <Shnt2PhysicianName>Joe Ducey</Shnt2PhysicianName>
+        <HuntersvilleNote>Huntersville Notes: h</HuntersvilleNote>
+    </HUNTERSVILLE>
+
+    <HASC>
+        <PhysicianName>Matthew Kozlowski</PhysicianName>
+        <HASCNote>HASC Notes: i</HASCNote>
+    </HASC>
+
+    <ESC>
+        <PhysicianName>Cory Koenig</PhysicianName>
+        <ESCNote>ESC Notes: j</ESCNote>
+    </ESC>
+
+    <BALLANTYNE>
+        <PhysicianName>Ilya Rubin</PhysicianName>
+        <BalNote>Ballantyne Notes: k</BalNote>
+    </BALLANTYNE>
+
+    <CALLS>
+
+        <COR>
+        <PhysicianName>Kevin Crosby</PhysicianName>
+        <Note>C OR Notes: o</Note>
+        </COR>
+
+        <COB>
+        <PhysicianName>Carl Scharf</PhysicianName>
+        <Note>C OB Notes: p</Note>
+        </COB>
+
+        <CMat>
+        <PhysicianName>Paul Ryskiewich</PhysicianName>
+        <Note>C Mat Notes: q</Note>
+        </CMat>
+
+        <CHnt>
+        <PhysicianName>Ron Brannon</PhysicianName>
+        <Note>C Hnt Notes: r</Note>
+        </CHnt>
+
+        <H1>
+        <PhysicianName>Ren Weidman</PhysicianName>
+        <Note>H 1 Notes: s</Note>
+        </H1>
+
+        <COH>
+        <PhysicianName>Karen Slocum</PhysicianName>
+        <Note>C OH Notes: t</Note>
+        </COH>
+
+        <PedsCall>
+        <PhysicianName>Brian Kornrumpf</PhysicianName>
+        <Note>Peds Call Notes: u</Note>
+        </PedsCall>
+    </CALLS>
+
+</Assignments>
